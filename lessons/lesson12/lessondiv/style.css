@@ -1,0 +1,53 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.heder,
+.footer {
+	text-transform: uppercase;
+	text-align: center;
+	color: blue;
+	padding: 20px;
+	background-color: skyblue;
+}
+
+.wrap {
+	padding: 0.1px 0px 0.1px 10px;
+	background-color: orange;
+	
+}
+
+.menu {
+	float: left;
+	width: 185px;
+	height: 260px;
+	text-align: justify;
+	
+}
+
+.content {
+	color: blue;
+	display: block;
+	text-align: justify;
+	margin-left: 200px;
+	background: white;
+	padding: 0.1px;
+	background: url(img/ball.png) right top repeat-y #fff;
+}
+
+.clear {
+	clear: both;
+}
+
+.img {
+	margin: 0cm 0.5cm 0.5cm 0.5cm;
+	float: left;
+}
+
+.title {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
