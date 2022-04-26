@@ -25,5 +25,5 @@ p {
 	font-weight: bold;
 }
 .extref::before { 
-	content: url('/lessons/lesson13/homework/chess/img/extref.png') 
+	content: url('img/extref.png') 
 }
