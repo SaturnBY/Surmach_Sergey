@@ -1,0 +1,29 @@
+
+p {
+	font-style: italic;
+	color: blue;
+	
+	
+	
+
+}
+
+.name {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+
+}
+
+.data {
+	color: green;
+	font-style: normal;
+}
+
+.yer {
+	color: red;
+	font-weight: bold;
+}
+.extref::before { 
+	content: url(/lessons/lesson13/homework/chess/img/extref.png) 
+}

@@ -1,0 +1,21 @@
+
+p {
+	font-style: italic;
+	color: blue;
+}
+
+.name {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.data {
+	color: green;
+	font-style: normal;
+}
+
+.yer {
+	color: red;
+	font-weight: bold;
+}

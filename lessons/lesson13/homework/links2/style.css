@@ -1,0 +1,69 @@
+/* обнуление */
+*,
+*::before,
+*::after{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box; /* сброс отступов */
+}
+a {
+	text-decoration: none; /* верстка */
+}
+ul,
+ol,
+li {
+	list-style: none; /* сброс стиля*/
+}
+img {
+vertical-align: top; /*  */
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit; 
+	font-size: inherit; /*сброс стиля шрифтов */
+}
+html,
+body {
+	height: 100%;
+	line-height: 1;
+	font-size: 14px;
+	color: black; /* сброс стиля боди */
+	font-family: 'Open Sans'; /*подключение шрифтов */
+}
+/* верстка */
+.conteaner {
+
+}
+.conteaner__links {
+
+
+}
+.link--first{
+	color: green;
+    border-right: solid red 3px;/* разделители сделаны рамкой */
+    padding: 5px 10px 10px 0;
+
+}
+.link {
+	border-right: solid red 3px;/* разделители сделаны рамкой */
+	color: green;
+    padding: 5px 10px 10px 10px;
+}
+.link--fifth {
+	color: green;
+    padding: 0 10px 0 10px;
+}
+.link--first:hover{
+	color: blue;
+}
+.link:hover{
+	color: aqua;
+}
+.link--fifth:hover{
+	color: rgb(218, 240, 17);
+}

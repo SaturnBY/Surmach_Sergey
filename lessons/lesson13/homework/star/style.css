@@ -1,0 +1,20 @@
+
+.star {
+	background: url('/lessons/lesson13/homework/star/img/star0.png') no-repeat;
+	width: 180px; /* Ширина рисунка */
+	height: 150px; /*  Высота рисунка */
+	float: right;
+}
+.star:hover {
+	background: url('/lessons/lesson13/homework/star/img/star1.png') no-repeat; 
+
+	width: 180px; /* Ширина рисунка */
+	height: 150px; /*  Высота рисунка */
+	float: right;
+}
+.star:hover~.star {
+	background: url('/lessons/lesson13/homework/star/img/star1.png') no-repeat; 
+	width: 180px; /* Ширина рисунка */
+	height: 150px; /*  Высота рисунка */
+	float: right;
+}
