@@ -1,0 +1,19 @@
+@media print{
+	p {
+		font-style: normal;
+		color: black;
+	}
+	.name{
+		color: black;
+	}
+	.data{
+		color: black;
+	}
+	.yer{
+		color: black;
+	}
+	
+	a:after {
+		content: " [" attr(href) "]";
+	}
+}

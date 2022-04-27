@@ -1,0 +1,103 @@
+/* адаптация для планшета */
+@media all and (max-width:768px)
+{
+	.heder,
+	.footer {
+		background-color: rgb(103, 119, 124);
+	}
+	.wrap {
+		background: rgb(15, 180, 119);
+	}
+	p {
+		font-size: 1.1rem
+	}
+	.menu {
+		font-size: 1.6rem;
+		
+	}
+}
+/* адаптация для телефона  425px*/
+@media all and (max-width:426px)
+{
+	.heder,
+	.footer {
+	width: 600px;
+		background-color: rgb(238, 156, 34);
+	}
+	.wrap {
+		background: rgb(220, 7, 7);
+		width: 180px;
+	}
+	.img {
+		margin: 12px;
+		float: left;
+		width: 300px;
+	}
+	.content {
+		width: 360px;
+	}
+	p {
+		font-size: 1.4rem
+	}
+	.menu {
+		font-size: 1.9rem;
+		
+	}
+}
+/* адаптация для стандартного телефона */
+@media all and (max-width:376px)
+{
+	.heder,
+	.footer {
+	width: 600px;
+		background-color: rgb(253, 2, 2);
+	}
+	.wrap {
+		background: rgb(229, 249, 4);
+		width: 180px;
+	}
+	.img {
+		margin: 18px 95px 15px 0px;
+		float: left;
+		width: 355px;
+	}
+	.content {
+		width: 360px;
+	}
+	p {
+		font-size: 1.5rem
+	}
+	.menu {
+		font-size: 1.8rem;
+		
+	}
+}
+
+/* адаптация для маленького телефона */
+@media all and (max-width:320px)
+{
+	.heder,
+	.footer {
+	width: 600px;
+		background-color: rgb(7, 94, 121);
+	}
+	.wrap {
+		background: rgb(148, 176, 166);
+		width: 180px;
+	}
+	.img {
+		margin: 18px 104px 18px 50px;
+		float: left;
+		width: 275px;
+	}
+	.content {
+		width: 360px;
+	}
+	p {
+		font-size: 1.6rem
+	}
+	.menu {
+		font-size: 1.9rem;
+		
+	}
+}
