@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Maket_form</title>
+</head>
+<style>
+	.form {}
+
+	.text {
+		width: 520px;
+		height: 100px;
+		border: none;
+	}
+
+	.name {
+		width: 400px;
+		height: 10px;
+		border: none;
+	}
+
+	.fix {
+		border: none;
+		width: 193px;
+		margin-left: 113px;
+	}
+
+	.fix2 {
+		margin-left: 84px;
+	}
+</style>
+
+<body>
+	<div class="form">
+		<form method="get" action="https://fe.it-academy.by/TestForm.php"></form>
+		Для публикации вашей статьи заполните, пожалуйста следующую фориму:<br><br>
+		Название статьи:
+		<textarea class="name" name="mytext"></textarea>
+		<imput type="text" name="programm"><br>
+			<span>Рубрика:</span>
+			<select class="fix" name="programm_variant">
+				<option value="1">Программирование</option>
+				<option value="2">Дизайн</option>
+				<option value="3">Прочее</option>
+			</select><br>
+			<span>Публикация:</span>
+			<span class="fix2"><input type="radio" name="answer[]" value="stud">на сайте
+				<input type="radio" name="answer[]" value="job">в журнале
+				<input type="radio" name="answer[]" value="jobpff">на сайте и в журнале
+			</span><br>
+			Разрешить комментарии:
+			<Label>
+				<input type="checkbox" name="answer[]" value="comment">
+			</Label><br>
+			Текст статьи:<br>
+			<textarea class="text" name="mytext"></textarea><br>
+			<input type="submit" value="Опубликовать">
+			</form>
+	</div>
+</body>
+
+</html>
