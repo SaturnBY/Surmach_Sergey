@@ -1,0 +1,24 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.text {
+	width: 520px;
+	height: 100px;
+}
+
+.name {
+	width: 400px;
+	height: 10px;
+}
+
+.fix {
+	border: none;
+	width: 193px;
+	margin-left: 113px;
+}
+
+.fix2 {
+	margin-left: 84px;
+}

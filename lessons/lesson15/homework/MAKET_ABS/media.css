@@ -1,0 +1,54 @@
+/* адаптация для планшета */
+@media all and (max-width:768px)
+{
+
+	.form {
+		background: rgb(15, 180, 119);
+		width: 767px;
+	}
+	.text{
+		width: 767px;
+	}
+	.name{
+		width: 767px;
+	}	
+}
+/* адаптация для телефона  425px*/
+@media all and (max-width:426px)
+{
+	
+	.wrapper {
+		background: rgb(220, 7, 7);
+		width: 425px;
+	}
+	.conteaner{
+		width: 425px;
+	}
+	
+}
+/* адаптация для стандартного телефона */
+@media all and (max-width:376px)
+{
+
+	.wrapper {
+		background: rgb(229, 249, 4);
+		width: 375px;
+	}
+	.conteaner{
+		width: 375px;
+	}
+
+}
+
+/* адаптация для маленького телефона */
+@media all and (max-width:320px)
+{
+	.wrapper {
+		background: rgb(148, 176, 166);
+		width: 320px;
+	}
+	.conteaner{
+		width: 320px;
+	}
+
+}

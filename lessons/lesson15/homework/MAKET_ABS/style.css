@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.wrapper{
+	width: 100%;
+	max-width: 1024px;
+	padding:0 15px;
+	margin: 0 auto;
+}
+.conteiner {
+	height: 400px;
+}
+.bio {
+	position: absolute;
+	left: 700px;
+    top: 100px;
+	z-index: 1;
+}
+.man {
+	position: absolute;
+	left: 950px;
+    top: 100px;
+	z-index: 1;
+}
+.no {
+	position: absolute;
+	left: 800px;
+    top: 100px;
+	z-index: 2;
+}
+.yin {
+	position: absolute;
+	left: 820px;
+    top: 250px;
+	z-index: 1;
+}
+.bio:hover{
+	z-index: 3;
+}
+.man:hover{
+	z-index: 3;
+}
+.no:hover{
+	z-index: 4;
+}
+.yin:hover{
+	z-index: 3;
+}
+
+
