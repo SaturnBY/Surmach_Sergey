@@ -5,15 +5,19 @@
 }
 .wrapper{
 	width: 100%;
-	max-width: 1024px;
+	max-width: 1920px;
 	padding:0 15px;
-	
+
 	
 }
 .conteiner {
-	height: 400px;
-	margin: 0 auto;
-	position: relative;
+	height: 320px;
+    width: 780px;
+    margin: 0 auto;
+    position: relative;;
+}
+.clear{
+	clear: both;
 }
 .img {
 		display: block;
