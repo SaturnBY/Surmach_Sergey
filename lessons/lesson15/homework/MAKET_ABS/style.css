@@ -25,26 +25,26 @@
 
 .bio {
 	position: absolute;
-	left: 700px;
-    top: 100px;
+	left: 200px;
+    top: 20px;
 	z-index: 1;
 }
 .man {
 	position: absolute;
-	left: 950px;
-    top: 100px;
+	left: 400px;
+    top: 20px;
 	z-index: 1;
 }
 .no {
 	position: absolute;
-	left: 800px;
-    top: 100px;
+    left: 292px;
+    top: 15px;
 	z-index: 2;
 }
 .yin {
 	position: absolute;
-	left: 820px;
-    top: 250px;
+	left: 310px;
+    top: 125px;
 	z-index: 1;
 }
 .bio:hover{
