@@ -7,11 +7,22 @@
 	width: 100%;
 	max-width: 1024px;
 	padding:0 15px;
-	margin: 0 auto;
+	
+	
 }
 .conteiner {
 	height: 400px;
+	margin: 0 auto;
+	position: relative;
 }
+.img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto 
+		
+	}
+
+
 .bio {
 	position: absolute;
 	left: 700px;
