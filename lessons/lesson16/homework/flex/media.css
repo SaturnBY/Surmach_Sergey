@@ -1,0 +1,130 @@
+/* адаптация для планшета */
+@media all and (max-width:768px)
+{
+	.header,
+.footer{
+		display: none;
+	}
+	.baner{
+		display: none;
+	}
+	.main{
+		display: flex;
+    flex-direction: column-reverse;
+}
+.menu{
+	background: none;
+	text-align: justify;
+	width: 100%;
+}
+ul li {
+    display: inline; 
+    padding: 3px; 
+}
+}
+/* адаптация для телефона  425px*/
+@media all and (max-width:426px)
+{
+	.header,
+.footer {
+	display: none;
+	}
+	.menu{
+		background: none;
+		text-align: justify;
+		width: 100%;
+	}
+	ul li {
+		display: inline; 
+		padding: 3px; 
+	}
+	.baner{
+		display: none;
+	}
+	.img {
+		margin: 12px;
+		float: left;
+		width: 300px;
+	}
+	.content {
+		width: 360px;
+	}
+	p {
+		font-size: 1.4rem
+	}
+	.menu {
+		font-size: 1.9rem;
+		
+	}
+}
+/* адаптация для стандартного телефона */
+@media all and (max-width:376px)
+{
+	.header,
+.footer {
+	display: none;
+	}
+	.menu{
+		background: none;
+		text-align: justify;
+		width: 100%;
+	}
+	ul li {
+		display: inline; 
+		padding: 3px; 
+	}
+	.baner{
+		display: none;
+	}
+	.img {
+		margin: 18px 95px 15px 0px;
+		float: left;
+		width: 355px;
+	}
+	.content {
+		width: 360px;
+	}
+	p {
+		font-size: 1.5rem
+	}
+	.menu {
+		font-size: 1.8rem;
+		
+	}
+}
+
+/* адаптация для маленького телефона */
+@media all and (max-width:320px)
+{
+	.header,
+.footer {
+	display: none;
+	}
+	.menu{
+		background: none;
+		text-align: justify;
+		width: 100%;
+	}
+	ul li {
+		display: inline; 
+		padding: 3px; 
+	}
+	.baner{
+		display: none;
+	}
+	.img {
+		margin: 18px 104px 18px 50px;
+		float: left;
+		width: 275px;
+	}
+	.content {
+		width: 360px;
+	}
+	p {
+		font-size: 1.6rem
+	}
+	.menu {
+		font-size: 1.9rem;
+		
+	}
+}

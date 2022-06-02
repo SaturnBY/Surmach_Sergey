@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.wraper {
+	flex: 100%;
+}
+.header,
+.footer{
+	text-transform: uppercase;
+	text-align: center;
+	color: blue;
+	padding: 20px;
+	background: skyblue;
+}
+.main {
+	display: flex;
+}
+
+.menu {
+	color: blue;
+	text-align: justify;
+	background: orange;
+	width: 300px;
+}
+
+
+.text{
+    margin-left: 30px;
+}
+.content h1 {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+.img {
+	float: left;
+    margin-left: 32px;
+    width: 230px;
+}
+.baner {
+	background: url(img/ball.png) right top repeat-y #fff;
+}
