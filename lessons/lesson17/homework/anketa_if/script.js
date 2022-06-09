@@ -10,24 +10,32 @@ while (true) {
 }
 var ageDay = (age * 365);
 var ageEar = (age + 5);
-var gender = prompt('Введите пол (мужской или женский):'); {
-	if (gender == 'мужской')
-		gender = ('мужской');
+
+var gender = confirm('Ваш пол мужской:'); {
+	if (gender == true)
+		(gender = ('мужской'));
+
 	else
-		gender = ('женский');
+		(gender = ('женский'));
+
 }
 var ageM
 ageM = age
-if (age <= 62) {
-	if (gender == 'мужской')
+if (age <= 62 && gender == 'мужской')
+	ageM = ('нет');
+else if (age > 62 && gender == 'мужской')
+	ageM = ('да');
+else if (age <= 58) {
+	if (gender == 'женский' && age < 58)
 		ageM = ('нет');
 	else
 		ageM = ('нет');
 }
 else {
-	if (gender == 'мужской')
+	if (gender == 'женский' && age > 58)
 		ageM = ('да');
 	else
 		ageM = ('да');
 }
+
 alert('Ваше ФИО: ' + firstName + ' ' + myName + ' ' + secondName + '\nВаш возраст в годах: ' + age + ' лет' + '\n' + 'Ваш возраст в днях: ' + ageDay + ' дней' + '\n' + 'Ваш возраст через 5 лет: ' + ageEar + ' лет' + '\n' + 'Ваш пол: ' + gender + ' ' + '\n' + 'Вы на пенсии: ' + ageM + ' ')
