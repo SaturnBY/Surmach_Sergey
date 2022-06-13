@@ -270,7 +270,7 @@
 		display: none;
 	}
 	.info p {
-		width:425px;	
+		width:428px;	
 	}
 	.header-top-info {
 	}
@@ -280,40 +280,41 @@
 		display: none;
 	}
 	.heder-content {
-		width:426px;
+		width:428px;
 	}
 	.serch {
 		display: none;
 	}
 	.menu-item {
-		width:426px;
+		width:428px;
 	}
 	.nav-item {
-		width:426px;
+		width:428px;
 	}
 	.item-sale {
 		display: none;
 	}
 	.baner {
-		width:426px;
+		width:428px;
+		margin-bottom: -222px;
 	}
 	.info {
-		width:426px;
+		width:428px;
 	}
 	.new {
-		width:426px;
+		width:428px;
 	}
 	.buttom {
 		display: none;
 	}
 	.container {
-		width:426px;	
+		width:428px;	
 	}
 	.magazin {
-		width: 426px;
+		width: 428px;
 	}
 	.faund-view {
-		width: 426px;
+		width: 428px;
 	}
 	.jt {
 		display: none;
@@ -322,7 +323,7 @@
 		display: none;
 	}
 	.help-bloc {
-		width:426px;
+		width:428px;
 	}
 	.help {
 		display: none;
@@ -331,13 +332,13 @@
 		display: none;
 	}
 	.footer-top {
-		width:426px;
+		width:428px;
 	}
 	.footer-item {
 		display: none;
 	}
 	.footer-container {
-		width:426px;
+		width:428px;
 	}
 	.gift {
 		display: none;
