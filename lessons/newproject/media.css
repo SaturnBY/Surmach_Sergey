@@ -1,0 +1,899 @@
+/* адаптация для планшета */
+@media all and (max-width:768px)
+{
+	.header-top{
+		display: none;
+	}
+	.info p {
+		width:768px;	
+	}
+	.header-top-info {
+	}
+	.header {
+	}
+	.heder-content {
+		width:768px;
+	}
+	.logo {
+	}
+	.serch {
+		display: none;
+	}
+	.menu-item {
+		width:768px;
+	}
+	.item-en {
+	}
+	.en {
+	}
+	.item-my {
+	}
+	.svg {
+	}
+	.item-usd {
+	}
+	.swg2 {
+	}
+	.basket {
+	}
+	.clear {
+	}
+	.nav-item {
+		display: none;
+		
+	}
+	.main-item {
+		display: none;	
+	}
+	.main-item-menu {
+	}
+	.item-menu {
+	}
+	.item-boots {
+	}
+	.item-ski {
+	}
+	.item-apparel {
+	}
+	.item-shop {
+	}
+	.item-brands {
+	}
+	.main-item-sale {
+	}
+	.item-sale {
+		display: none;
+	}
+	.baner {
+		width:768px;
+		margin-bottom: -220px;
+	}
+	.info {
+		width:768px;
+	}
+	.new {
+		width:768px;
+	}
+	.buttom {
+		display: none;
+	}
+	.container {
+		width:768px;	
+	}
+	.catalog {
+	}
+	.catalog-item-top {
+	}
+	.catalog-item {
+		
+	}
+	.imgright {
+	}
+	.sc {
+	}
+	.profile {
+	}
+	.flex {
+	}
+	.bord {
+	}
+	.faund-view {
+		width: 768px;
+	}
+	.faund {
+	}
+	.view {
+	}
+	.view-border {
+	}
+	.number {
+	}
+	.svg-found {
+	}
+	.popular {
+	}
+	.popular-border {
+	}
+	.popular-left {
+	}
+	.popular-centr {
+	}
+	.magazin {
+	}
+	.niche {
+	}
+	.niche-img {
+	}
+	.niche-text {
+	}
+	.weigt {
+	}
+	.price {
+	}
+	.price-text {
+	}
+	.prise-before {
+	}
+	.star {
+	}
+	.niche8 {
+	}
+	.niche7 {
+	}
+	.niche6 {
+	}
+	.niche5 {
+	}
+	.niche4 {
+	}
+	.niche3 {
+	}
+	.niche2 {
+	}
+	.trip {
+	}
+	.trip-img {
+	}
+	.trip-text {
+	}
+	.trip-weight {
+	}
+	.trip-travel {
+	}
+	.namber-a {
+	}
+	.number-b {
+	}
+	.number-border {
+	}
+	.number-number {
+	}
+	.of {
+	}
+	.sellers {
+	}
+	.sellers-best {
+	}
+	.sellers-itom {
+	}
+	.poc {
+	}
+	.poc-img {
+	}
+	.poc-text {
+	}
+	.poc-prise {
+	}
+	.evo {
+	}
+	.evo-img {
+	}
+	.evo-text {
+	}
+	.evo-prise {
+	}
+	.jt {
+		display: none;
+	}
+	.jt-img {
+	}
+	.jt-text {
+	}
+	.jt-prise {
+	}
+	.xv {
+		display: none;
+	}
+	.xv-img {
+	}
+	.xv-text {
+	}
+	.xv-prise {
+	}
+	.help-bloc {
+		width:768px;
+	}
+	.help {
+		display: none;
+	}
+	.help-text {
+	}
+	.help-talk {
+	}
+	.help-buttom {
+	}
+	.call {
+	}
+	.stay {
+		display: none;
+	}
+	.stay-text {
+	}
+	.be-text {
+	}
+	.border-stey {
+	}
+	.emall {
+	}
+	.submit {
+	}
+	.footer-top {
+		width:768px;
+	}
+	.footer-item {
+		display: none;
+	}
+	.footer-container {
+		width:768px;
+	}
+	.gift {
+		display: none;
+	}
+	.weight-footer {
+	}
+	.resources {
+		display: none;
+	}
+	.about {
+		display: none;
+	}
+	.downlod {
+		display: none;
+	}	
+	.img-sport {
+	}
+}
+/* адаптация для телефона  425px*/
+@media all and (max-width:426px)
+{
+	.header-top{
+		display: none;
+	}
+	.info p {
+		width:425px;	
+	}
+	.header-top-info {
+	}
+	.header {
+	}
+	.menu-item {
+		display: none;
+	}
+	.heder-content {
+		width:426px;
+	}
+	.serch {
+		display: none;
+	}
+	.menu-item {
+		width:426px;
+	}
+	.nav-item {
+		width:426px;
+	}
+	.item-sale {
+		display: none;
+	}
+	.baner {
+		width:426px;
+	}
+	.info {
+		width:426px;
+	}
+	.new {
+		width:426px;
+	}
+	.buttom {
+		display: none;
+	}
+	.container {
+		width:426px;	
+	}
+	.magazin {
+		width: 426px;
+	}
+	.faund-view {
+		width: 426px;
+	}
+	.jt {
+		display: none;
+	}
+	.xv {
+		display: none;
+	}
+	.help-bloc {
+		width:426px;
+	}
+	.help {
+		display: none;
+	}
+	.stay {
+		display: none;
+	}
+	.footer-top {
+		width:426px;
+	}
+	.footer-item {
+		display: none;
+	}
+	.footer-container {
+		width:426px;
+	}
+	.gift {
+		display: none;
+	}
+	.resources {
+		display: none;
+	}
+	.about {
+		display: none;
+	}
+	.downlod {
+		display: none;
+	}	
+}
+/* адаптация для стандартного телефона */
+@media all and (max-width:376px)
+{
+	.info p {
+		width:378px;	
+	}
+		.header-top{
+			display: none;
+		}
+		.header-top-info {
+		}
+		.header {
+		}
+		.heder-content {
+			width:378px;
+		}
+		.logo {
+		}
+		.serch {
+			display: none;
+		}
+		.menu-item {
+			width:378px;
+		}
+		.item-en {
+		}
+		.en {
+		}
+		.item-my {
+		}
+		.svg {
+		}
+		.item-usd {
+		}
+		.swg2 {
+		}
+		.basket {
+		}
+		.clear {
+		}
+		.nav-item {
+			display: none;
+			
+		}
+		.main-item {
+			display: none;	
+		}
+		.main-item-menu {
+		}
+		.item-menu {
+		}
+		.item-boots {
+		}
+		.item-ski {
+		}
+		.item-apparel {
+		}
+		.item-shop {
+		}
+		.item-brands {
+		}
+		.main-item-sale {
+		}
+		.item-sale {
+			display: none;
+		}
+		.baner {
+			width:378px;
+			margin-bottom: -222px;
+		}
+		.info {
+			width:322px;
+		}
+		.new {
+			width:378px;
+		}
+		.buttom {
+			display: none;
+		}
+		.container {
+			width:378px;	
+		}
+		
+	.info p {
+		width:378px;	
+	}
+		.catalog {
+		}
+		.catalog-item-top {
+		}
+		.catalog-item {
+			
+		}
+		.imgright {
+		}
+		.sc {
+		}
+		.profile {
+		}
+		.flex {
+		}
+		.bord {
+		}
+		.faund-view {
+			width:378px;
+		}
+		.faund {
+		}
+		.view {
+			display: none;
+		}
+		.view-border {
+			display: none;
+		}
+		.number {
+		}
+		.svg-found {
+		}
+		.popular {
+		}
+		.popular-border {
+		}
+		.popular-left {
+		}
+		.popular-centr {
+		}
+		.magazin {
+			width:378px;
+		}
+		.niche {
+		}
+		.niche-img {
+		}
+		.niche-text {
+		}
+		.weigt {
+		}
+		.price {
+		}
+		.price-text {
+		}
+		.prise-before {
+		}
+		.star {
+		}
+		.niche8 {
+		}
+		.niche7 {
+		}
+		.niche6 {
+		}
+		.niche5 {
+		}
+		.niche4 {
+		}
+		.niche3 {
+		}
+		.niche2 {
+		}
+		.trip {
+		}
+		.trip-img {
+		}
+		.trip-text {
+		}
+		.trip-weight {
+		}
+		.trip-travel {
+		}
+		.namber-a {
+		}
+		.number-b {
+		}
+		.number-border {
+		}
+		.number-number {
+		}
+		.of {
+		}
+		.sellers {
+		}
+		.sellers-best {
+		}
+		.sellers-itom {
+		}
+		.poc {
+		}
+		.poc-img {
+		}
+		.poc-text {
+		}
+		.poc-prise {
+		}
+		.evo {
+		}
+		.evo-img {
+		}
+		.evo-text {
+		}
+		.evo-prise {
+		}
+		.jt {
+			display: none;
+		}
+		.jt-img {
+		}
+		.jt-text {
+		}
+		.jt-prise {
+		}
+		.xv {
+			display: none;
+		}
+		.xv-img {
+		}
+		.xv-text {
+		}
+		.xv-prise {
+		}
+		.help-bloc {
+			width:378px;
+		}
+		.help {
+			display: none;
+		}
+		.help-text {
+		}
+		.help-talk {
+		}
+		.help-buttom {
+		}
+		.call {
+		}
+		.stay {
+			display: none;
+		}
+		.stay-text {
+		}
+		.be-text {
+		}
+		.border-stey {
+		}
+		.emall {
+		}
+		.submit {
+		}
+		.footer-top {
+			width:378px;
+		}
+		.footer-item {
+			display: none;
+		}
+		.footer-container {
+			width:378px;
+		}
+		.gift {
+			display: none;
+		}
+		.weight-footer {
+		}
+		.resources {
+			display: none;
+		}
+		.about {
+			display: none;
+		}
+		.downlod {
+			display: none;
+		}	
+		.img-sport {
+		}
+}
+
+/* адаптация для маленького телефона */
+@media all and (max-width:320px)
+{
+	.info p {
+	width:322px;	
+}
+	.header-top{
+		display: none;
+	}
+	.header-top-info {
+	}
+	.header {
+	}
+	.heder-content {
+		width:322px;
+	}
+	.logo {
+	}
+	.serch {
+		display: none;
+	}
+	.menu-item {
+		width:322px;
+	}
+	.item-en {
+	}
+	.en {
+	}
+	.item-my {
+	}
+	.svg {
+	}
+	.item-usd {
+	}
+	.swg2 {
+	}
+	.basket {
+	}
+	.clear {
+	}
+	.nav-item {
+		display: none;
+		
+	}
+	.main-item {
+		display: none;	
+	}
+	.main-item-menu {
+	}
+	.item-menu {
+	}
+	.item-boots {
+	}
+	.item-ski {
+	}
+	.item-apparel {
+	}
+	.item-shop {
+	}
+	.item-brands {
+	}
+	.main-item-sale {
+	}
+	.item-sale {
+		display: none;
+	}
+	.baner {
+		width:322px;
+		margin-bottom: -222px;
+	}
+	.info {
+		width:322px;
+	}
+	.new {
+		width:322px;
+	}
+	.buttom {
+		display: none;
+	}
+	.container {
+		width:322px;	
+	}
+	
+.info p {
+	width:322px;	
+}
+	.catalog {
+	}
+	.catalog-item-top {
+	}
+	.catalog-item {
+		
+	}
+	.imgright {
+	}
+	.sc {
+	}
+	.profile {
+	}
+	.flex {
+	}
+	.bord {
+	}
+	.faund-view {
+		width:322px;
+	}
+	.faund {
+	}
+	.view {
+		display: none;
+	}
+	.view-border {
+		display: none;
+	}
+	.number {
+	}
+	.svg-found {
+	}
+	.popular {
+	}
+	.popular-border {
+	}
+	.popular-left {
+	}
+	.popular-centr {
+	}
+	.magazin {
+		width: 322px;
+	}
+	.niche {
+	}
+	.niche-img {
+	}
+	.niche-text {
+	}
+	.weigt {
+	}
+	.price {
+	}
+	.price-text {
+	}
+	.prise-before {
+	}
+	.star {
+	}
+	.niche8 {
+	}
+	.niche7 {
+	}
+	.niche6 {
+	}
+	.niche5 {
+	}
+	.niche4 {
+	}
+	.niche3 {
+	}
+	.niche2 {
+	}
+	.trip {
+	}
+	.trip-img {
+	}
+	.trip-text {
+	}
+	.trip-weight {
+	}
+	.trip-travel {
+	}
+	.namber-a {
+	}
+	.number-b {
+	}
+	.number-border {
+	}
+	.number-number {
+	}
+	.of {
+	}
+	.sellers {
+	}
+	.sellers-best {
+	}
+	.sellers-itom {
+	}
+	.poc {
+	}
+	.poc-img {
+	}
+	.poc-text {
+	}
+	.poc-prise {
+	}
+	.evo {
+	}
+	.evo-img {
+	}
+	.evo-text {
+	}
+	.evo-prise {
+	}
+	.jt {
+		display: none;
+	}
+	.jt-img {
+	}
+	.jt-text {
+	}
+	.jt-prise {
+	}
+	.xv {
+		display: none;
+	}
+	.xv-img {
+	}
+	.xv-text {
+	}
+	.xv-prise {
+	}
+	.help-bloc {
+		width:322px;
+	}
+	.help {
+		display: none;
+	}
+	.help-text {
+	}
+	.help-talk {
+	}
+	.help-buttom {
+	}
+	.call {
+	}
+	.stay {
+		display: none;
+	}
+	.stay-text {
+	}
+	.be-text {
+	}
+	.border-stey {
+	}
+	.emall {
+	}
+	.submit {
+	}
+	.footer-top {
+		width:322px;
+	}
+	.footer-item {
+		display: none;
+	}
+	.footer-container {
+		width:322px;
+	}
+	.gift {
+		display: none;
+	}
+	.weight-footer {
+	}
+	.resources {
+		display: none;
+	}
+	.about {
+		display: none;
+	}
+	.downlod {
+		display: none;
+	}	
+	.img-sport {
+	}
+}

@@ -5,32 +5,55 @@ var cards = [
 		correntPrice: "$ 398.93",
 		oldPrice: "$ 499.00",
 	},
-
 	{
-		imgUrl: "img/niche.jpg",
+		imgUrl: "img/8.jpg",
+		title: "Weston: Backwoods Snowboard - 2020/2021 sdkfjsdk",
+		correntPrice: "$ 398.93",
+		oldPrice: " 499.00",
+	},
+	{
+		imgUrl: "img/7.jpg",
+		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
+		correntPrice: "$ 398.93",
+		oldPrice: "$ 499.00",
+	},
+	{
+		imgUrl: "img/6.jpg",
+		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
+		correntPrice: "$ 398.93",
+		oldPrice: "$ 499.00",
+	},
+	{
+		imgUrl: "img/5.jpg",
+		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
+		correntPrice: "$ 398.93",
+		oldPrice: "$ 499.00",
+	},
+	{
+		imgUrl: "img/4.jpg",
+		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
+		correntPrice: "$ 398.93",
+		oldPrice: "$ 499.00",
+	},
+	{
+		imgUrl: "img/3.jpg",
+		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
+		correntPrice: "$ 398.93",
+		oldPrice: "$ 499.00",
+	},
+	{
+		imgUrl: "img/2.jpg",
 		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
 		correntPrice: "$ 398.93",
 		oldPrice: "$ 499.00",
 	},
 
 	{
-		imgUrl: "img/niche.jpg",
+		imgUrl: "img/trip.jpg",
 		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
 		correntPrice: "$ 398.93",
 		oldPrice: "$ 499.00",
 	},
-	{
-		imgUrl: "img/niche.jpg",
-		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
-		correntPrice: "$ 398.93",
-		oldPrice: "$ 499.00",
-	},
-	{
-		imgUrl: "img/niche.jpg",
-		title: "Niche: Nightshade Snowboard - Women's - 2019/2020",
-		correntPrice: "$ 398.93",
-		oldPrice: "$ 499.00",
-	}
 ]
 
 var div = document.querySelector('.magazin')
