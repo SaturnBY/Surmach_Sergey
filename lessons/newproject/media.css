@@ -66,13 +66,14 @@
 	}
 	.baner {
 		width:770px;
-		margin-bottom: -220px;
+		margin-bottom: -340px;
 	}
 	.info {
 		width:770px;
 	}
 	.new {
 		width:770px;
+		display: none;
 	}
 	.buttom {
 		display: none;
@@ -103,14 +104,17 @@
 	.faund {
 	}
 	.view {
+		display: none;
 	}
 	.view-border {
+		display: none;
 	}
 	.number {
 	}
 	.svg-found {
 	}
 	.popular {
+		display: none;
 	}
 	.popular-border {
 	}
@@ -185,6 +189,7 @@
 	.poc-prise {
 	}
 	.evo {
+		display: none;
 	}
 	.evo-img {
 	}
@@ -296,13 +301,14 @@
 	}
 	.baner {
 		width:428px;
-		margin-bottom: -222px;
+		margin-bottom: -340px;
 	}
 	.info {
 		width:428px;
 	}
 	.new {
 		width:428px;
+		display: none;
 	}
 	.buttom {
 		display: none;
@@ -354,7 +360,7 @@
 	}	
 }
 /* адаптация для стандартного телефона */
-@media all and (max-width:376px)
+@media all and (max-width:375px)
 {
 	.info p {
 		width:378px;	
@@ -421,13 +427,14 @@
 		}
 		.baner {
 			width:378px;
-			margin-bottom: -222px;
+			margin-bottom: -340px;
 		}
 		.info {
 			width:378px;
 		}
 		.new {
 			width:378px;
+			display: none;
 		}
 		.buttom {
 			display: none;
@@ -547,6 +554,7 @@
 		.poc-prise {
 		}
 		.evo {
+			display: none;
 		}
 		.evo-img {
 		}
@@ -701,6 +709,7 @@
 	}
 	.new {
 		width:322px;
+		display: none;
 	}
 	.buttom {
 		display: none;
