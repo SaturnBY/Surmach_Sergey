@@ -1,0 +1,142 @@
+/* обнуление */
+*,
+*::before,
+*::after{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+ul,
+ol,
+li {
+	list-style: none;
+}
+img {
+vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+html,
+body {
+	height: 100%;
+	line-height: 1;
+	font-size: 16px;
+	color: black;
+	font-family: "DM Sans";
+	/* overflow:  hidden; */
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+/* .clear{
+	clear: both;
+} */
+
+/* header--------------------------------------------- */
+.header {
+}
+.logo {
+}
+.menu-item {
+}
+.login {
+}
+.header-buttom {
+}
+/* conteiner-------------------------------------------- */
+.container {
+}
+.start {
+}
+.start-button {
+}
+.reting {
+}
+.rating-foto {
+}
+.foto {
+}
+.col {
+}
+.line {
+}
+.rating-stars {
+}
+.content-bg {
+}
+/* bloc1------------------------------------------------------ */
+.features {
+}
+.video {
+}
+.save {
+}
+.keep {
+}
+/* bloc2------------------------------------------------------ */
+.chat {
+}
+.video-chat {
+}
+.meet {
+}
+/* bloc3------------------------------------------------------ */
+.start {
+}
+.start-text {
+}
+.chat-activ {
+}
+.card {
+}
+.cardopr {
+}
+.cardfone {
+}
+/* bloc4------------------------------------------------------ */
+.inbox {
+}
+.chat-inbox {
+}
+.inbox-text {
+}
+.inbox-web {
+}
+.inbox-xhat {
+}
+/* bloc5------------------------------------------------------ */
+.blessed {
+}
+.blesed-text {
+}
+.us {
+}
+.incredeble {
+}
+.depentable {
+}
+/* bloc6------------------------------------------------------ */
+.ready {
+}
+/* foote------------------------------------------------------ */
+.footer {
+}
+.logo {
+}
+/* footer down------------------------------------------------------ */
+.footer-down {
+}
+
